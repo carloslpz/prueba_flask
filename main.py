@@ -32,5 +32,5 @@ def return_colonias_cp(cp):
 
 
 
-app.run(debug = True)
+app.run()
 
